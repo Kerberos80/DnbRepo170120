@@ -1,5 +1,7 @@
 package DnB.DTO;
 
+// 4,5
+
 public class LoginInfo {
 	
 	public boolean isLogin = false;
