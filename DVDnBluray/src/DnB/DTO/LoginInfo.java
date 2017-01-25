@@ -9,6 +9,10 @@ public class LoginInfo {
 	public boolean isLogin = false;
 	public String id = "";
 	public String pw = "";
+	
+	dakshfkhwekfh
+	
+	
 	public boolean isLogin() {
 		return isLogin;
 	}
