@@ -5,7 +5,8 @@ package DnB.DTO;
 // Git Test Class
 public class TestDTO {
 
-	public void myfun(int param) {
+	public void myfun(char param) {
+		// 파라미터 수정
 		
 	}
 	
