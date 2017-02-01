@@ -5,4 +5,8 @@ package DnB.DTO;
 // Git Test Class
 public class TestDTO {
 
+	public void myfun(int param) {
+		
+	}
+	
 }
